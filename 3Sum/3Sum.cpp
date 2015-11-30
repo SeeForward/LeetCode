@@ -1,5 +1,5 @@
 //Date:2015 11 09
-//Outher:lidengke
+//Author:lidengke
 
 #include <algorithm>
 #include <utility>
